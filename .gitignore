@@ -1,0 +1,7 @@
+# SolidWorks lock files, created while a document is open
+~$*
+
+# SolidWorks backup/recovery files
+*.sldbak
+*~
+swxauto*
